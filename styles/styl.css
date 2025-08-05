@@ -1,0 +1,12 @@
+.img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.section{
+    padding: 40xp 20xp;
+}
+body {
+    background-color: rgb(211, 248, 248);
+
+}
