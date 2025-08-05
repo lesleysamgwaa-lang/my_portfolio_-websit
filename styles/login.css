@@ -1,6 +1,28 @@
 body{
     background-color: rgb(181, 244, 244);
    display: #eee;
- 
-   font-family: serif;
+  padding-left: 500px;
+   
+  
+}
+.email {
+    width: 250px;
+height: 20px;
+
+}
+.password {
+        width: 250px;
+height: 20px;
+margin-top: 20;
+
+}
+.bros{
+    margin-top: 15px;
+    padding-left: 40px;
+    background-color: azure;
+
+}
+.number{
+    margin-top: 20;
+
 }
