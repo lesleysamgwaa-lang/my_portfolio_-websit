@@ -1,28 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
 body{
-    background-color: rgb(181, 244, 244);
-   display: #eee;
-  padding-left: 500px;
-   
-  
+    background-color: aqua;
+    margin: 40px;
+    padding: auto;
 }
-.email {
-    width: 250px;
-height: 20px;
+.brass
+.container{
+    max-width: 50px;
+    margin: 100px;
+    margin-left: 500px;
+    margin-top: 10px;
+    color: brown;
+    font-size: large;
+}
+  input{
+   padding: 5px;
+color: rgb(202, 181, 223);
 
+  }
+.submit {
+    height: 30;
+    width: 100;
+    margin-top: 10px;
 }
-.password {
-        width: 250px;
-height: 20px;
-margin-top: 20;
 
-}
-.bros{
-    margin-top: 15px;
-    padding-left: 40px;
-    background-color: azure;
 
-}
-.number{
-    margin-top: 20;
-
-}

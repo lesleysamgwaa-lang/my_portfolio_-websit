@@ -1,0 +1,72 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:orange;
+    margin: 0;
+    padding: 0;
+
+}
+.main{
+     background-color:rgb(250, 247, 247);
+    width: 180vh;
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+    margin: auto;
+    margin-top: 20vh;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+justify-content: center;
+}
+ul li{
+    list-style: none;
+    text-decoration: none;
+    font-family: arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+    margin-top: 15px;
+    margin-left: 50px;
+    color: brown;
+}
+
+.set{
+    margin-top: 100px;
+}
+.pan{
+    margin-top: 100px ;
+
+}
+.picture {
+    position: absolute;
+    left: 30%;
+    top: 42%;
+}
+.name{
+     margin-top: 20vh;
+       margin-left: 90px;
+       margin-bottom: auto;
+       color: brown;
+
+
+}
+.asp{
+        display: flex;
+    flex-direction: row;
+    align-items: center;
+justify-content: end;
+
+}
+.list li :hover{
+    color: black;
+}
+
+
+
+
+
