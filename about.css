@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ body{
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+    padding: 20px;
+    
+ }
+ .container{
+margin-bottom:200px;
+   
+    background-color: blue ;
+  
+ }
